@@ -1,6 +1,6 @@
 # Get Started JavaScript 3D
 
-## A UWP game for the Windows Store, written in JavaScript with three.js
+## A UWP game for the Microsoft Store, written in JavaScript with three.js
 
 ## Requirements
 This app requires Visual Studio to run. [Click here to learn how to get set up with Visual Studio](https://docs.microsoft.com/en-us/windows/uwp/get-started/get-set-up).
@@ -15,4 +15,4 @@ For a step-by-step walkthrough of the code, check out the [JavaScript 3D tutoria
 
 To learn more about getting started with the Universal Windows Platform, see the [Getting Started Hub](https://developer.microsoft.com/windows/apps/getstarted)
 
-To learn how to publish apps to the Windows Store, see [Publishing your Windows Store app](https://developer.microsoft.com/store/publish-apps).
+To learn how to publish apps to the Microsoft Store, see [Publishing your Microsoft Store app](https://developer.microsoft.com/store/publish-apps).
