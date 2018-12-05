@@ -1,3 +1,13 @@
+---
+topic: sample
+languages:
+- javascript
+products:
+- windows
+statusNotificationTargets:
+- codefirst
+---
+
 # Get Started JavaScript 3D
 
 ## A UWP game for the Microsoft Store, written in JavaScript with three.js
