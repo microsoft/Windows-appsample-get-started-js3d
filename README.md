@@ -4,13 +4,14 @@ languages:
 - javascript
 products:
 - windows
+- uwp
 statusNotificationTargets:
 - codefirst
 ---
 
 # Get Started JavaScript 3D
 
-## A UWP game for the Microsoft Store, written in JavaScript with three.js
+A UWP game for the Microsoft Store, written in JavaScript with three.js
 
 ## Requirements
 This app requires Visual Studio to run. [Click here to learn how to get set up with Visual Studio](https://docs.microsoft.com/en-us/windows/uwp/get-started/get-set-up).
