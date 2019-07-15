@@ -1,12 +1,13 @@
 ---
-topic: sample
+page_type: sample
 languages:
 - javascript
 products:
 - windows
 - windows-uwp
 statusNotificationTargets:
-- codefirst
+- codefirst@microsoft.com
+description: "A UWP game for the Microsoft Store, written in JavaScript with three.js."
 ---
 
 # Get Started JavaScript 3D
