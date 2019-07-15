@@ -15,7 +15,7 @@ description: "A UWP game for the Microsoft Store, written in JavaScript with thr
 A UWP game for the Microsoft Store, written in JavaScript with three.js
 
 ## Requirements
-This app requires Visual Studio to run. [Click here to learn how to get set up with Visual Studio](https://docs.microsoft.com/en-us/windows/uwp/get-started/get-set-up).
+This app requires Visual Studio to run. [Click here to learn how to get set up with Visual Studio](https://docs.microsoft.com/windows/uwp/get-started/get-set-up).
 
 ## Install and run the app
 1. Clone or download this repository
