@@ -18,6 +18,7 @@ A UWP game for the Microsoft Store, written in JavaScript with three.js
 This app requires Visual Studio to run. [Click here to learn how to get set up with Visual Studio](https://docs.microsoft.com/windows/uwp/get-started/get-set-up).
 
 ## Install and run the app
+
 1. Clone or download this repository
 2. Open **GetStartedJS3D.sln** in Visual Studio.
 3. To run the app, press **F5**.
